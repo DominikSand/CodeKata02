@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarateChop", "KarateChop\KarateChop.csproj", "{189A1C94-477D-49D0-9503-DC1364B1BA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarateChopTest", "KarateChopTest\KarateChopTest.csproj", "{9990F0F4-44AC-4F63-AC89-353F25DCA6DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189A1C94-477D-49D0-9503-DC1364B1BA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189A1C94-477D-49D0-9503-DC1364B1BA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189A1C94-477D-49D0-9503-DC1364B1BA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189A1C94-477D-49D0-9503-DC1364B1BA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9990F0F4-44AC-4F63-AC89-353F25DCA6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9990F0F4-44AC-4F63-AC89-353F25DCA6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9990F0F4-44AC-4F63-AC89-353F25DCA6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9990F0F4-44AC-4F63-AC89-353F25DCA6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9FED50-CCF5-4791-A097-D5A92B12674E}
+	EndGlobalSection
+EndGlobal
